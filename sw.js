@@ -1,8 +1,8 @@
 // Generado en el build. No editar.
-const VERSION = "c56d3961ad1b";
+const VERSION = "959380912ae3";
 // Prefijo propio: la app de CARLOS borra sus cachés antiguas por prefijo y no debe tocar estas.
 const CACHE = "sergio-" + VERSION;
-const FILES = ["./","./assets/index-BCWE87o_.js","./assets/index-CaabKWNI.css","./manifest.webmanifest","./icons/icon-180.png","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png"];
+const FILES = ["./","./assets/index-BN33wAf8.js","./assets/index-CaabKWNI.css","./manifest.webmanifest","./icons/icon-180.png","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png"];
 // Las fotos de los ejercicios van en su propia caché, que no se borra al actualizar: cada una se baja una sola vez.
 const PHOTOS = "ejercicios-sergio";
 
